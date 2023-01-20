@@ -18,7 +18,7 @@ body {
 
 section {
     position: relative;
-    width: 100%;
+    width: 90%;
     margin-top: 25px;
     display: flex;
     align-items: center;
@@ -73,7 +73,7 @@ section .imageContainer {
 
 .imageContainer {
     transition: 250ms all;
-    width: 300px;
+    width: 200px;
 }
 
 
@@ -90,7 +90,7 @@ section .imageContainer {
 }
 
 .imageContainer img {
-    width: 100%;
+    width: 90%;
 }
 
 .btn {
@@ -102,7 +102,7 @@ section .imageContainer {
     font-weight: 400;
     text-align: center;
     cursor: pointer;
-    padding: .375rem .75rem;
+    padding: .250rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
     border-radius: .25rem;
